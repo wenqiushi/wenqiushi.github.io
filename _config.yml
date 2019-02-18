@@ -1,40 +1,40 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 文秋实
+subtitle: 阳光宅男的个人主页
+description: 四方朋友们，欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: wenqiushi
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 兴趣使然 / 机器学习 / 气象应用
+url: "http://wenqiushi.io"
 
 # Comment
 comment:
-    disqus: leopard
+    # disqus: wenqiushi
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 6070216551 
+    github: wenqiushi
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 0c072ba8d3a8
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 575247829@qq.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: xxxx  
+    id: 932e197b15575f162d3920749fbf7157  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
+#ga:
+#    id: xxxx  
+#    host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
