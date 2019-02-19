@@ -1,5 +1,5 @@
 
-[wenqiushi](http://wenqiushi.io) 这是一个我自己的个人小博客，欢迎大家^.^
+[wenqiushi](http://wenqiushi.github.io) 这是一个我自己的个人小博客，欢迎大家^.^
 
 我的博客模板来自与这个大佬的[模板](http://baixin.io) 是一个很好的博客模板。
 
